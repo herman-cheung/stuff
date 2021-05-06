@@ -1,0 +1,9 @@
+{
+	"name": "hermancheung",
+	"location": "canadaeast",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "eebbf9f6-a576-4f21-8ec2-45036357143e",
+		"tenantId": "3617ef9b-98b4-40d9-ba43-e1ed6709cf0d"
+	}
+}
